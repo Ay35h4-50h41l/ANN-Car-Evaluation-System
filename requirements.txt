@@ -1,0 +1,8 @@
+Libraries:
+tensorflow
+keras
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
